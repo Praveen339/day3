@@ -9,6 +9,4 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(plugin= {"pretty","json:cucumber.json"},tags= {"@reg,@login,@cart"})
 public class runner {
 
-	
-
 }
